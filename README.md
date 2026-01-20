@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development and UI/UX Design
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Email me at duncanarcia8275@gmail.com
+- 📫 How to reach me: Email me at duncangarcia8275@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am the mastermind😉
 
